@@ -13,3 +13,4 @@ ideas: talk about big projects I've worked on in the past:
 
   overall, everything needs to be personal and something that ties into how I spend hours working on programming and WHY it is special to me
 
+
