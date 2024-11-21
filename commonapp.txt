@@ -1,4 +1,4 @@
-CommonApp Checklist (0/7)
+CommonApp Checklist (1/7)
 
   Profile: (5/7) [ - + + + + - + ]
     Personal Information: 
@@ -10,12 +10,10 @@ CommonApp Checklist (0/7)
     Geography and Nationality: 
       Add social security number
     CommonApp Fee Waiver: Done
-  Family: (2/4) [ + - - + ]
+  Family: (4/4) [ + + + + ] Done
     Household: Done
-    Parent 1 (Maman): 
-      re-check some of the information before submitting
-    Parent 2 (Papa):
-      Re-check some of the information before submitting
+    Parent 1 (Maman): Done
+    Parent 2 (Papa): Done
     Sibling: Done
   Education: (6/8) [ + + + - + - + + ]
     Current or Most Recent High School: Done
