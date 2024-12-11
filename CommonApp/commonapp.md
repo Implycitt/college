@@ -38,3 +38,10 @@ CommonApp Checklist (3/7)
     12th Grade: Done
     Other Courses: Done
     Just recheck everything one last time before submitting.
+
+MyColleges Checklist
+  BGSU
+  LSU
+  Purdue
+  Rice
+  Virginia
