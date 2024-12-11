@@ -1,46 +1,40 @@
-CommonApp Checklist (0/7)
+CommonApp Checklist (3/7)
 
-  Profile: (5/7) [ - + + + + - + ]
+  Profile: (6/7) [ - + + + + + + ]
     Personal Information: 
-      Make sure about middle name
+      Awaiting Response
     Address: Done
     Contact Details: Done
     Demographics: Done
     Language: Done
-    Geography and Nationality: 
-      Add social security number
+    Geography and Nationality: Done 
     CommonApp Fee Waiver: Done
-  Family: (2/4) [ + - - + ]
+  Family: (4/4) [ + + + + ] DONE
     Household: Done
-    Parent 1 (Maman): 
-      re-check some of the information before submitting
-    Parent 2 (Papa):
-      Re-check some of the information before submitting
+    Parent 1 (Maman): Done
+    Parent 2 (Papa): Done
     Sibling: Done
-  Education: (6/8) [ + + + - + - + + ]
+  Education: (7/8) [ + + + + + - + + ]
     Current or Most Recent High School: Done
     Other High Schools: Done
     Colleges and Universities: Done
-    Grades: 
-      Check class ranking reporting, gpa scale, class size, and ask what would be better to report
-      Current or Most Recent Year Courses: Done
+    Grades: Done
     Honors: 
       Make sure there isn’t anything else I could add
     Community-based Organizations: Done
     Future Plans: Done
-  Testing: (1/3) [ + - - ]
+  Testing: (3/3) [ + + + ] DONE
     Tests taken: Done
-    ACT Tests: 
-      Make sure information is correct
-    AP Subject Tests: 
-      Make sure information is correct
+    ACT Tests: Done
+    AP Subject Tests: Done 
   Activities: (0/10) [- - - - - - - - - -]
     In Progress 
   Writing: [ - ]
     In Progress
-  Courses & Grades: (2/5) [ - - - + + ]
-    9th Grade: In Progress
-    10th Grade: In Progress
-    11th Grade: In Progress
+  Courses & Grades: (5/5) [ + + + + + ] DONE
+    9th Grade: Done
+    10th Grade: Done
+    11th Grade: Done
     12th Grade: Done
     Other Courses: Done
+    Just recheck everything one last time before submitting.
