@@ -40,7 +40,7 @@
     - Just recheck everything one last time before submitting.
 
 ## MyColleges Checklist
-  * (BGSU)[https://github.com/Implycitt/college/CommonApp/bgsu/bgsu.md]
+  * [BGSU](https://github.com/Implycitt/college/blob/main/CommonApp/bgsu/bgsu.md)
   * LSU
   * Purdue
   * Rice
