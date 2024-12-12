@@ -1,47 +1,46 @@
-# CommonApp Checklist (3/7)
+# CommonApp Checklist (3/7) 🔲✅🔲✅🔲🔲✅
 
-## Profile: (6/7) [ - + + + + + + ]
-* Personal Information: 
+## Profile: (6/7) 🔲✅✅✅✅✅✅
+- [] Personal Information: 
     - Awaiting Response
-* Address: Done
-* Contact Details: Done
-* Demographics: Done
-* Language: Done
-* Geography and Nationality: Done 
-* CommonApp Fee Waiver: Done
-## Family: (4/4) [ + + + + ] DONE
-* Household: Done
-* Parent 1 (Maman): Done
-* Parent 2 (Papa): Done
-* Sibling: Done
-## Education: (7/8) [ + + + + + - + + ]
-* Current or Most Recent High School: Done
-* Other High Schools: Done
-* Colleges and Universities: Done
-* Grades: Done
-* Honors: 
+- [x] Address: Done
+- [x] Contact Details
+- [x] Demographics
+- [x] Language
+- [x] Geography and Nationality
+- [x] CommonApp Fee Waiver
+## Family: (4/4) ✅✅✅✅
+- [x] Household: Done
+- [x] Parent 1 (Maman)
+- [x] Parent 2 (Papa)
+- [x] Sibling
+## Education: (7/8) 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲 
+- [x] Current or Most Recent High School
+- [x] Other High Schools
+- [x] Colleges and Universities
+- [x] Grades
+- [] Honors: 
     - Make sure there isn’t anything else I could add
-* Community-based Organizations: Done
-* Future Plans: Done
-## Testing: (3/3) [ + + + ] DONE
-* Tests taken: Done
-* ACT Tests: Done
-* AP Subject Tests: Done 
-## Activities: (0/10) [- - - - - - - - - -]
+- [x] Community-based Organizations
+- [x] Future Plans
+## Testing: (3/3) ✅✅✅ 
+- [x] Tests taken
+- [x] ACT Tests
+- [x] AP Subject Tests
+## Activities: (0/10) 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲 
 * In Progress 
-## Writing: [ - ]
+## Writing: 🔲
 * In Progress
-## Courses & Grades: (5/5) [ + + + + + ] DONE
-* 9th Grade: Done
-* 10th Grade: Done
-* 11th Grade: Done
-* 12th Grade: Done
-* Other Courses: Done
-    - Just recheck everything one last time before submitting.
+## Courses & Grades: (5/5) ✅✅✅✅✅ 
+- [x] 9th Grade
+- [x] 10th Grade
+- [x] 11th Grade
+- [x] 12th Grade
+- [x] Other Courses 
 
 ## MyColleges Checklist
   * [BGSU](https://github.com/Implycitt/college/blob/main/CommonApp/bgsu/bgsu.md)
-  * LSU
-  * Purdue
-  * Rice
-  * Virginia
+  * [LSU](https://github.com/Implycitt/college/blob/main/CommonApp/lsu/lsu.md)
+  * [Purdue](https://github.com/Implycitt/college/blob/main/CommonApp/purdue/purdue.md)
+  * [Rice](https://github.com/Implycitt/college/blob/main/CommonApp/rice/rice.md)
+  * [Virginia](https://github.com/Implycitt/college/blob/main/CommonApp/virginia/virginia.md)
