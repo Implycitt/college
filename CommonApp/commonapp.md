@@ -1,7 +1,7 @@
 # CommonApp Checklist (3/7) 🔲✅🔲✅🔲🔲✅
 
 ## Profile: (6/7) 🔲✅✅✅✅✅✅
-- [] Personal Information: 
+- [ ] Personal Information: 
     - Awaiting Response
 - [x] Address: Done
 - [x] Contact Details
@@ -19,7 +19,7 @@
 - [x] Other High Schools
 - [x] Colleges and Universities
 - [x] Grades
-- [] Honors: 
+- [ ] Honors: 
     - Make sure there isn’t anything else I could add
 - [x] Community-based Organizations
 - [x] Future Plans

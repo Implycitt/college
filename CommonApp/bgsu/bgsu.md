@@ -1,5 +1,5 @@
-- [] General:
-- [] Academics:
-- [] Contacts:
-- [] Family:
-- [] Residency:
+- [ ] General
+- [ ] Academics
+- [ ] Contacts
+- [ ] Family
+- [ ] Residency
