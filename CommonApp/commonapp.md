@@ -1,8 +1,7 @@
-# CommonApp Checklist (3/7) 🔲✅🔲✅🔲🔲✅
+# CommonApp Checklist (4/7) ✅✅🔲✅🔲🔲✅
 
-## Profile: (6/7) 🔲✅✅✅✅✅✅
-- [ ] Personal Information: 
-    - Awaiting Response
+## Profile: (7/7) ✅✅✅✅✅✅✅
+- [x] Personal Information: 
 - [x] Address: Done
 - [x] Contact Details
 - [x] Demographics
@@ -14,7 +13,7 @@
 - [x] Parent 1 (Maman)
 - [x] Parent 2 (Papa)
 - [x] Sibling
-## Education: (7/8) 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲 
+## Education: (7/8) ✅✅✅✅🔲✅✅✅ 
 - [x] Current or Most Recent High School
 - [x] Other High Schools
 - [x] Colleges and Universities
@@ -29,7 +28,7 @@
 - [x] AP Subject Tests
 ## Activities: (0/10) 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲 
 * In Progress 
-## Writing: 🔲
+## Writing: (0/1) 🔲
 * In Progress
 ## Courses & Grades: (5/5) ✅✅✅✅✅ 
 - [x] 9th Grade
